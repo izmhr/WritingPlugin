@@ -4,4 +4,4 @@ Unity + Visual Studio で Managed/Native な plugin をつくって、Unity Edit
 
 ## 紹介ブログ
 
-(執筆中)
+http://izmiz.hateblo.jp/entry/2014/12/16/223116
